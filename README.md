@@ -105,7 +105,7 @@ To run the linear regression model, follow these steps:
 
 1. Clone this repository:
 - git clone https://github.com/Sivaraj-Sankar/PRODIGY_ML_01.git
-- cd PRODIGY_ML_01
+- cd house-price-prediction
 
 2. Open the Jupyter Notebook provided (house_price_prediction.ipynb) to see a step-by-step demonstration of the model.
 
