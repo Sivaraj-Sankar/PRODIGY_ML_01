@@ -104,9 +104,8 @@ It contains the following columns:
 To run the linear regression model, follow these steps:
 
 1. Clone this repository:
-
-git clone https://github.com/Sivaraj-Sankar/PRODIGY_ML_01.git
-cd PRODIGY_ML_01
+- git clone https://github.com/Sivaraj-Sankar/PRODIGY_ML_01.git
+- cd PRODIGY_ML_01
 
 2. Open the Jupyter Notebook provided (house_price_prediction.ipynb) to see a step-by-step demonstration of the model.
 
@@ -123,7 +122,7 @@ The model's performance is evaluated using metrics like Mean Squared Error (MSE)
 ### Future Improvements
 This project is a basic demonstration of linear regression for house price prediction. There are several ways to enhance it:
 
-Feature engineering to create more informative features.
-Trying different regression algorithms.
-Hyperparameter tuning for better model performance.
-Expanding the dataset for more accurate predictions.
+- Feature engineering to create more informative features.
+- Trying different regression algorithms.
+- Hyperparameter tuning for better model performance.
+- Expanding the dataset for more accurate predictions.
